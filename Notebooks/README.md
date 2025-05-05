@@ -9,7 +9,7 @@
 - [Jupyter Notebooks](#jupyter-notebooks)
 
 ## Project Overview
-This project aims to analyze NFL team statistics from 2003 to 2023 to determine key factors contributing to team success. We explore various performance metrics like turnovers, big plays, and yards per play and how they relate to a team’s win percentage.
+This project aims to analyze NFL team statistics from 2010 to 2023 to determine key factors contributing to team success. We explore various performance metrics like turnovers, big plays, and yards per play and how they relate to a team’s win percentage.
 
 ## Folder Structure
 - `data/`
