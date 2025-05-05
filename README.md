@@ -13,11 +13,18 @@ This project aims to analyze NFL team statistics from 2003 to 2023 to determine 
 
 ## Folder Structure
 - `data/`
-  - `raw/`: Contains raw data files from Kaggle and NFL.com.
-  - `cleaned/`: Contains the cleaned dataset after wrangling.
-- `notebooks/`: Contains Jupyter notebooks for data wrangling and analysis.
-- `docs/`: Contains documentation files, including the project README and data dictionary.
-- `src/`: Python scripts for data processing tasks.
+  - `raw/`: Contains the raw data files from external sources (e.g., Kaggle and NFL.com).
+    - `team_stats_2010_2023.csv` (NFL team stats from 2010 to 2023)
+    - `nfl_passing_stats.csv` (NFL passing stats)
+  - `cleaned/`: Contains the cleaned and processed data that is ready for analysis.
+    - `merged_df.csv` (The merged and cleaned version of the raw data)
+
+- `notebooks/`: Contains Jupyter Notebooks for data wrangling and analysis.
+  - `Group Project.ipynb` — the main notebook where data wrangling and analysis are performed.
+
+- `docs/`: Contains documentation files.
+  - `README.md`: Provides an overview of the project, its folder structure, and usage.
+  - `data_dictionary.md`: Describes the data dictionary, explaining the columns in the dataset.
 
 ## Data Sources
 The raw data used in this project is sourced from:
