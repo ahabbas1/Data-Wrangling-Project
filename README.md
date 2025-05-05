@@ -12,17 +12,17 @@
 This project aims to analyze NFL team statistics from 2010 to 2023 to determine key factors contributing to team success. We explore various performance metrics like turnovers, big plays, and yards per play and how they relate to a team’s win percentage.
 
 ## Folder Structure
-- `data/`
-  - `raw/`: Contains the raw data files from external sources (e.g., Kaggle and NFL.com).
+- `Data/`
+  - `Raw/`: Contains the raw data files from external sources (e.g., Kaggle and NFL.com).
     - `team_stats_2010_2023.csv` (NFL team stats from 2010 to 2023)
     - `nfl_passing_stats.csv` (NFL passing stats)
-  - `cleaned/`: Contains the cleaned and processed data that is ready for analysis.
+  - `Cleaned/`: Contains the cleaned and processed data that is ready for analysis.
     - (The cleaned version of the raw data)
 
-- `code/`: Contains Jupyter Notebooks for data wrangling and analysis.
+- `Code/`: Contains Jupyter Notebooks for data wrangling and analysis.
   - `Group Project.ipynb` — the main notebook where data wrangling and analysis are performed.
 
-- `notebooks/`: Contains documentation files.
+- `Notebooks/`: Contains documentation files.
   - `README.md`: Provides an overview of the project, its folder structure, and usage.
   - `data_dictionary.md`: Describes the data dictionary, explaining the columns in the dataset.
 
@@ -50,4 +50,4 @@ This dictionary explains the columns and their meanings in the dataset.
 4. **Final Output**: The cleaned data and analysis results are stored in the `cleaned/` folder.
 
 ## Jupyter Notebooks
-- `code/Group Project.ipynb`: This notebook contains the data wrangling process, from loading the raw data to cleaning and preparing the data for analysis.
+- `Code/Group Project.ipynb`: This notebook contains the data wrangling process, from loading the raw data to cleaning and preparing the data for analysis.
