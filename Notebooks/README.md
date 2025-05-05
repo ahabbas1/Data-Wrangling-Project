@@ -19,10 +19,10 @@ This project aims to analyze NFL team statistics from 2003 to 2023 to determine 
   - `cleaned/`: Contains the cleaned and processed data that is ready for analysis.
     - (The cleaned version of the raw data)
 
-- `notebooks/`: Contains Jupyter Notebooks for data wrangling and analysis.
+- `code/`: Contains Jupyter Notebooks for data wrangling and analysis.
   - `Group Project.ipynb` — the main notebook where data wrangling and analysis are performed.
 
-- `docs/`: Contains documentation files.
+- `notebooks/`: Contains documentation files.
   - `README.md`: Provides an overview of the project, its folder structure, and usage.
   - `data_dictionary.md`: Describes the data dictionary, explaining the columns in the dataset.
 
@@ -50,4 +50,4 @@ This dictionary explains the columns and their meanings in the dataset.
 4. **Final Output**: The cleaned data and analysis results are stored in the `cleaned/` folder.
 
 ## Jupyter Notebooks
-- `notebooks/data_wrangling.ipynb`: This notebook contains the data wrangling process, from loading the raw data to cleaning and preparing the data for analysis.
+- `code/Group Project.ipynb`: This notebook contains the data wrangling process, from loading the raw data to cleaning and preparing the data for analysis.
