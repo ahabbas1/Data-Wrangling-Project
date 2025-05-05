@@ -17,7 +17,7 @@ This project aims to analyze NFL team statistics from 2003 to 2023 to determine 
     - `team_stats_2010_2023.csv` (NFL team stats from 2010 to 2023)
     - `nfl_passing_stats.csv` (NFL passing stats)
   - `cleaned/`: Contains the cleaned and processed data that is ready for analysis.
-    - `merged_df.csv` (The merged and cleaned version of the raw data)
+    - (The cleaned version of the raw data)
 
 - `notebooks/`: Contains Jupyter Notebooks for data wrangling and analysis.
   - `Group Project.ipynb` — the main notebook where data wrangling and analysis are performed.
@@ -42,17 +42,6 @@ This dictionary explains the columns and their meanings in the dataset.
 | `Cmp %`            | Percentage of passes completed                            |
 | `Yds/Att`          | Yards gained per pass attempt                             |
 | `Rate`             | Combined passing rating for QBs                           |
-| `1st%`             | Percentage of 1st downs converted on 3rd down             |
-| `Win/Loss %`       | Win percentage for the team during that year              |
-| `Points Differential` | Difference between points scored and points allowed    |
-| `Yards Per Play`   | Yards gained per play                                     |
-| `Score %`          | Percentage to score points on a drive                     |
-| `Turnover %`       | Percentage of drives that end in a turnover               |
-| `TD to INT Rate`   | Number of touchdowns per interception                     |
-| `Sacks Taken per Game` | Number of times sacked per game                       |
-| `Penalties per Game` | Number of penalties committed per game                  |
-| `Turnovers per Game` | Number of turnovers per game                            |
-| `Big Plays per Game` | Number of 20+ and 40+ yard plays per game               |
 
 ## Project Workflow
 1. **Data Acquisition**: The data is sourced from Kaggle and NFL.com.
