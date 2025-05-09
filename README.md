@@ -17,7 +17,7 @@ This project aims to analyze NFL team statistics from 2010 to 2023 to determine 
     - `team_stats_2010_2023.csv` (NFL team stats from 2010 to 2023)
     - `nfl_passing_stats.csv` (NFL passing stats)
   - `Cleaned/`: Contains the cleaned and processed data that is ready for analysis.
-    - (The cleaned version of the raw data)
+    - `nfl_team_stats_df.csv`
 
 - `Code/`: Contains Jupyter Notebooks for data wrangling and analysis.
   - `Group Project.ipynb` — the main notebook where data wrangling and analysis are performed.
