@@ -21,7 +21,10 @@ This project aims to analyze NFL team statistics from 2010 to 2023 to determine 
 
 - `Code/`: Contains Jupyter Notebooks for data wrangling and analysis.
   - `Group Project.ipynb` — the main notebook where data wrangling and analysis are performed.
-
+    
+-  `report/`
+  - `project_report.pdf`: Final write-up discussing data analysis, methodology, model results, and conclusions.
+    
 - `Notebooks/`: Contains documentation files.
   - `README.md`: Provides an overview of the project, its folder structure, and usage.
   - `data_dictionary.md`: Describes the data dictionary, explaining the columns in the dataset.
