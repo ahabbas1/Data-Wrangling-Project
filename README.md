@@ -27,7 +27,6 @@ This project aims to analyze NFL team statistics from 2010 to 2023 to determine 
   -   `NFL Report - BAIS Project.pdf`
     
 - `Notebooks/`: Contains documentation files.
-  - `README.md`: Provides an overview of the project, its folder structure, and usage.
   - `data_dictionary.md`: Describes the data dictionary, explaining the columns in the dataset.
 
 ## Data Sources
@@ -54,4 +53,4 @@ This dictionary explains the columns and their meanings in the dataset.
 4. **Final Output**: The cleaned data and analysis results are stored in the `cleaned/` folder.
 
 ## Jupyter Notebooks
-- `Code/Group Project.ipynb`: This notebook contains the data wrangling process, from loading the raw data to cleaning and preparing the data for analysis.
+- `Code/NFL Analysis.ipynb`: This notebook contains the data wrangling process, from loading the raw data to cleaning and preparing the data for analysis.
