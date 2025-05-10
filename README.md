@@ -23,7 +23,8 @@ This project aims to analyze NFL team statistics from 2010 to 2023 to determine 
   - `Group Project.ipynb` — the main notebook where data wrangling and analysis are performed.
     
 -  `Report/`: Final write-up discussing data analysis, methodology, model results, and conclusions.
-  -  `NFL Report - BAIS Project.pdf`: 
+  - `Group Project.ipynb` — the main notebook where data wrangling and analysis are performed.
+  -  `NFL Report - BAIS Project.pdf`
     
 - `Notebooks/`: Contains documentation files.
   - `README.md`: Provides an overview of the project, its folder structure, and usage.
